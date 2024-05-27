@@ -68,7 +68,12 @@
 
 > 사진과 gif를 활용해 사용 예시를 보여줍니다.
 
-[사용예시 보러가기](docs/Usage.md)
+![app_lock.gif](docs%2Fimages%2Fapp_lock.gif) <br>
+![app_unlock.gif](docs%2Fimages%2Fapp_unlock.gif) <br>
+![watch_lock.gif](docs%2Fimages%2Fwatch_lock.gif) <br>
+![masterkey.gif](docs%2Fimages%2Fmasterkey.gif)
+
+[더 많은 사용예시 보러가기](docs/Usage.md)
 
 ## 6. 포팅 메뉴얼
 
