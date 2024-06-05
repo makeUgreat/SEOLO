@@ -15,31 +15,31 @@
 <div markdown="1">
 
 - 로그인<br>
-<img src="../docs/images/WEB/로그인.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/로그인.gif" width="900" height="350"/>
 
 - 도면 추가, 마커 등록<br>
-<img src="../docs/images/WEB/도면등록 및 마커등록.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/도면등록 및 마커등록.gif" width="900" height="350"/>
 
 - 도면 자물쇠 실시간 알림 및 업데이트<br>
-<img src="../docs/images/WEB/도면 자물쇠 실시간 알림 및 업데이트.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/도면 자물쇠 실시간 알림 및 업데이트.gif" width="900" height="350"/>
 
 - 장비 등록<br>
-<img src="../docs/images/WEB/도면 자물쇠 실시간 알림 및 업데이트.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/도면 자물쇠 실시간 알림 및 업데이트.gif" width="900" height="350"/>
 
 - 작업자 등록<br>
-<img src="../docs/images/WEB/임직원 등록.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/임직원 등록.gif" width="900" height="350"/>
 
 - 자물쇠 현황<br>
-<img src="../docs/images/WEB/실시간 자물쇠 현황 업데이트.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/실시간 자물쇠 현황 업데이트.gif" width="900" height="350"/>
 
 - 보고서 수정<br>
-<img src="../docs/images/WEB/보고서 수정.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/보고서 수정.gif" width="900" height="350"/>
 
 - 보고서 자동 생성<br>
-<img src="../docs/images/WEB/보고서 자동생성.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/보고서 자동생성.gif" width="900" height="350"/>
 
 - csv로 내보내기<br>
-<img src="../docs/images/WEB/csv내보내기.gif" width="900" height="330"/>
+<img src="../docs/images/WEB/csv내보내기.gif" width="900" height="350"/>
 
 </div>
 </details>
